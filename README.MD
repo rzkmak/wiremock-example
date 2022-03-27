@@ -78,3 +78,5 @@ ab -n 10 localhost:9999/posts/1
 - [ ] setup mapping for POST request
 - [ ] setup mapping for PATCH request
 - [ ] setup mapping for DELETE request
+- [ ] add response templating for POST/PATCH/DELETE
+- [ ] add response templating for 404
