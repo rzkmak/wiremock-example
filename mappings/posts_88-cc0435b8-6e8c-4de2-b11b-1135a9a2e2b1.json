@@ -1,0 +1,38 @@
+{
+  "id" : "cc0435b8-6e8c-4de2-b11b-1135a9a2e2b1",
+  "name" : "posts_88",
+  "request" : {
+    "url" : "/posts/88",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\n  \"userId\": 9,\n  \"id\": 88,\n  \"title\": \"sapiente omnis fugit eos\",\n  \"body\": \"consequatur omnis est praesentium\\nducimus non iste\\nneque hic deserunt\\nvoluptatibus veniam cum et rerum sed\"\n}",
+    "headers" : {
+      "Date" : "Sun, 27 Mar 2022 09:09:59 GMT",
+      "Content-Type" : "application/json; charset=utf-8",
+      "X-Powered-By" : "Express",
+      "X-Ratelimit-Limit" : "1000",
+      "X-Ratelimit-Remaining" : "999",
+      "X-Ratelimit-Reset" : "1648372260",
+      "Vary" : "Origin, Accept-Encoding",
+      "Cache-Control" : "max-age=43200",
+      "Pragma" : "no-cache",
+      "Expires" : "-1",
+      "X-Content-Type-Options" : "nosniff",
+      "Etag" : "W/\"bf-99RNmrovk8IKMxPgFxxzF7hL4oc\"",
+      "Via" : "1.1 vegur",
+      "CF-Cache-Status" : "MISS",
+      "Accept-Ranges" : "bytes",
+      "Expect-CT" : "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+      "Report-To" : "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=9JCHG88MHk2xPLROXhaAeUYmICShLEoqdEB9NedqY9GauEHsbhZHGhZWn5GdA3EgGP9KA%2FwbvuPBmbj2ppeQhzzK6QZjmMQiZ9p%2FE4m8ZSHkTdvmoV9i20XahELpNw7uOk5jxyiO0TXxxLV6X9%2FF\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+      "NEL" : "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+      "Server" : "cloudflare",
+      "CF-RAY" : "6f26fd85be5f91bd-SIN",
+      "alt-svc" : "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+    }
+  },
+  "uuid" : "cc0435b8-6e8c-4de2-b11b-1135a9a2e2b1",
+  "persistent" : true,
+  "insertionIndex" : 89
+}
